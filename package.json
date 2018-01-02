@@ -1,0 +1,25 @@
+{
+  "name": "toutiao-workflow",
+  "version": "1.0.0",
+  "description": "Tou Tiao Workflow ==================================",
+  "main": "toutiao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxing87327/toutiao-workflow.git"
+  },
+  "author": "liuxing87327",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuxing87327/toutiao-workflow/issues"
+  },
+  "homepage": "https://github.com/liuxing87327/toutiao-workflow#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "superagent": "^3.8.2"
+  }
+}
